@@ -1,1 +1,3 @@
-echo success
+#!/bin/bash
+echo success 
+
